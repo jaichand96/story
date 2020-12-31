@@ -1,0 +1,1 @@
+Express is a node framework. It adds extra features and helps to structure, organizes codes specifically for web application.

@@ -1,0 +1,1 @@
+Node.js allows us to use javascript to interact directly with hardware of the computer.
